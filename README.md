@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Patil</h1>
-<h3 align="center">A passionate Full-Stack Developer & Tech Innovator</h3>
+<h3 align="center">A passionate Full-Stack Developer & AI/ML Tech Innovator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshpatil13989&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshpatil13989" /> </p>
 
